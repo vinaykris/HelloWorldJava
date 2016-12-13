@@ -10,6 +10,6 @@ public class HelloWorld {
     
     public String printMessage(){
         System.out.println(message);
-        return message
+        return message;
     }
 }
